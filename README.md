@@ -16,4 +16,5 @@ Here, In this project I have made a project using WebRTC where two people could 
  *Mobile phones can also be used for communication(when deployed)<br>
  *Filters can also be choosen<br>
  *Can mute and unmute<br>
+ *Editors theme can also be changed to light or dark <br>
  
