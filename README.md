@@ -12,7 +12,7 @@ Here,I have made a project using WebRTC where two people could communicate with 
  *CSS<br>
  *Bootstrap<br>
  <br><br>
- #Additional Features<br>
+ #Additional Features of this project includes:<br>
  *Mobile phones can also be used for communication(when deployed)<br>
  *Filters can also be choosen<br>
  *Can mute and unmute<br>
