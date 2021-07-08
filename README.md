@@ -1,6 +1,6 @@
 # IntrinsicLabWebRTC 
 WebRTC is called as Real Time Communication.
-Here,I have made a project using WebRTC where two people could communicate with each other in two different PC'S without.
+Here,I have made a project using WebRTC where two people could communicate with each other in two different PC'S 
 <br><br><br>
 #Web Technologies Used:
 <br>
